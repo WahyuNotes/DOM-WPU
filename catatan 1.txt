@@ -1,0 +1,39 @@
+DOM (Document Object Model)
+
+DOM Selection
+> menyeleksi/memilih sebuah elemen dokumen/HTML dengan menggunakan Javascript 
+DOM Manipulation
+
+> Manipulasi elemen HTML dengan menggunakan DOM
+>Misal (menghapus, menambah, mengubah, dll)
+DOM Traversal
+
+>Menelusuri elemen HTML dengan HTML yang lain
+Event Handling
+
+<!--pertemuan 2 -->
+Tipe-tipe node:
+1. Elemen (Fokus)
+2. Attribute
+3. Text (Fokus)
+4. CData Section
+5. Entity Reference
+6. Entity
+7. Processing Instruction
+8. Comment
+9. Document (Fokus)
+10. Document Type
+11. Document Fragment
+12. Notation
+
+NodeList vs HTMLCollection
+
+>Kalau memilih satu element maka disebut node
+>Kalau memilih lebih dari satu nodeList
+
+>Kalau memilih elemen HTMLnya saja disebut HTML Collection
+
+>Keduanya merupakan kumpulan node
+>Struktur datanya mirip array
+>nodeList dapat berisi node apapun, sedangkan HTMLCollection harus berisi elemen HTML
+>HTML Collection bersifat live sedangkan nodelist tidak

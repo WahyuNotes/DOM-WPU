@@ -1,0 +1,40 @@
+DOM Manipulation Method
+Pertemuan 5 = Manipulasi Element
+DOM Selection Method
+
+> getElementById() menghasilkan element
+> getElementsByTagName() menghasilkan HTMLCollection
+> getElementsByClassName() menghasilkan HTMLCollection
+> querySelector() menghasilkan element
+> querySelectorAll() menghasilkan nodeList
+
+Pertemuan ke 4 ada di VS Code
+
+Pertemuan 5
+DOM Manipulation Method
+> Maninpulasi Element
+> Manipulasi Node
+
+>Manipulasi Element
+-> element.innerHTML
+-> element.style.<property>
+-> element.setAttribute()
+-> element.classList
+-> ....
+
+ada beberapa cara untuk mengubah atribute yang ada pada suatu elemen
+salah satunya dengan cara element.setAttribute()
+cara untuk menghapus atribut yang ada pada elemen yaitu dengan cara element.removeAttribute()
+Selain itu cara yang dugunakan untuk mendapatkan isi dari suatu attribute yaitu dengan cara element.getAttribute()
+
+
+Namun, ada cara jg yang digunakan untuk menambakan suatu attribute tanpa mengganti yang sudah ada
+yaitu dengan cara menggunakan element.classList
+
+element.classList.add();//menambah kelas baru 
+element.classList.remove();//menghilangkan kelas yang ada
+element.classList.toggle();//menambahkan apabila tidak ada class, namun jika ada maka akan menghilangkan kelas tersebut
+element.classList.item(); /untuk mengetahui class ke-n
+element.classList.contains();//untuk mengecek ada/tidak class tertentu
+element.classList.replace();//untuk mengganti class yang lama dengan yang baru
+

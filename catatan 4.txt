@@ -1,0 +1,52 @@
+Contohnya ada di domevent.js
+
+Ada 2 cara 'mendengarkan' event
+> Event Handler
+ - Inline HTML attribute //gak disarankan untuk digunakan
+ - Element method
+> addEventListener()
+
+Event Handler
+cukup ketik on<event>
+Contoh dari <event> adalah onClick
+
+
+kalau eventHandler akan melakukan perintah/perubahan/function terakhir yang di suruh. atau dengan kata lain tidak dapat menjalankan 2 fungsi sekaligus.
+
+namun, addEventListener dapat melakukan kedua perintah sekaligus.
+
+Berikut merupakan Event List yang dapat digunakan:
+>Mouse Event
+>Keyboard Event
+>Resource Event
+>Focus Event
+>View Event
+>Form Event
+>CSS Animation & Transition Event
+> Drag & Drop Event
+> dll bisa dilihat di https://developer.mozilla.org/en-US/docs/Web/Events
+
+untuk Mouse Event ada macam-macamnya:
+>click
+>dblclick
+>mouseover
+>mouseenter
+>mouseleave
+>mouseup
+>wheel
+>...
+
+untuk Keyboard Event ada macam-macamnya:
+>keydown
+>keypress
+>keyup
+
+untuk View Event ada macam-macamnya:
+>resize
+> scroll
+
+untuk Form Event ada macam-macamnya:
+>reset
+>submit
+
+untuk Mouse Event ada macam-macamnya:

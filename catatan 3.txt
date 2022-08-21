@@ -1,0 +1,13 @@
+DOM Manipulation Method
+Pertemuan 6 = Manipulasi Node
+
+>document.createElement() //membuat elemen
+>document.createTextNode() //membuat text yang akan dimasukkan ke dalam node
+>node.appendChild()//biasanya digunakan memasukkan textnode ke dalam elemen baru
+>node.insertBefore()//digunakan untuk menyisipkan suatu elemen
+>parentNode.removeChild()//digunakan untuk menghapus anak
+>parentNode.replaceChild()
+>...
+
+
+22:37
