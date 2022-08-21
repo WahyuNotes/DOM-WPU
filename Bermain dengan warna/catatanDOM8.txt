@@ -1,0 +1,11 @@
+clientX merupakan suatu fungsi untuk mengetahui sumbu X
+
+clientY merupakan suatu fungsi untuk mengetahui sumbu Y
+
+catatan Video
+11:58 kasus 2 | bikin warna random
+20:39 concatenasi bisa pake backtik(`) jadi nanti tulisannya ga perlu ('string' + 'misalIniVariable') nantinya bakal jadi `string ${misalIniVariable}`
+
+22:15 kasus 3 | bikin slider
+
+34:29 kasus 4 | cursor bergerak
