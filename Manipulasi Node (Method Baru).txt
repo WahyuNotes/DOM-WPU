@@ -1,0 +1,9 @@
+>parentNode.append()
+>parentNode.prepend()
+>childNode.before()
+>childNode.after()
+>childNode.remove()
+>childNode.replaceWith()
+....
+
+nb: belum dicoba dan belum tahu fungsi nya buat apa
