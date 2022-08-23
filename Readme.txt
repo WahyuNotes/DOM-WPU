@@ -8,4 +8,4 @@ catatan link referensi
 >https://dillionmegida.com/p/inline-events-vs-add-event-listeners/
 
 Link Deployment
-jsdom-wahyu.netlify.app
+https://jsdom-wahyu.netlify.app/
