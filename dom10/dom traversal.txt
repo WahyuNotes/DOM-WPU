@@ -1,0 +1,6 @@
+DOM Traversal = Penelusuran DOM
+
+
+Penggunaan
+//parentNode.replaceChild()
+sangat berguna untuk menghapus sesuatu/ bahkan seluruh isi dari parent
