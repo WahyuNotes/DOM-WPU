@@ -4,3 +4,32 @@ DOM Traversal = Penelusuran DOM
 Penggunaan
 //parentNode.replaceChild()
 sangat berguna untuk menghapus sesuatu/ bahkan seluruh isi dari parent
+
+Penggunaan
+//.parentElement berguna untuk mengetahui parent dari suatu element
+contoh:
+//untuk meraih/menyentuh/mendapatkan bapak
+//const nama = document.querySelector(".nama");
+//console.log(nama.parentElement);
+
+//untuk meraih/menyentuh/mendapatkan bapak
+//const nama = document.querySelector(".nama");
+//console.log(nama.parentElement.parentElement);
+
+penggunaan .target selalu diawali dengan elemen dari function
+
+DOM Traversal Method
+>parentNode                 menghasilkan: node
+mengambil node
+>parentElement              menghasilkan: element
+mengambil element
+>nextSibling                menghasilkan: node
+mengambil node
+>nextElementSibling         menghasilkan: element
+mengambil element
+>previousSibling            menghasilkan: node
+mengambil node
+>previousElementSibling     menghasilkan: element
+mengambil element
+
+Penggunaannya sama seperti pada line 8 s/d 17
