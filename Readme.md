@@ -12,13 +12,16 @@ Judul Playlist: Javascript dan DOM (Document Object Model)
 
 > <i>https://jsdom-wahyu.netlify.app/</i>
 
-<br /><br />Roadmap WPU secara garis besar
+Roadmap WPU secara garis besar
 ![Bigroadmap.png](/roadmapWPU/bigroadmap.png)<br /><br />
 Roadmap WPU terkait JS Dasar dan DOM
 ![roadmap1.png](/roadmapWPU/roadmap1.png)<br /><br />
+
 Roadmap terkait
 ![roadmap2.png](/roadmapWPU/roadmap2.png)<br /><br />
+
 Library untuk frontend dengan javascript
 ![roadmap3.png](/roadmapWPU/roadmap3.png)<br /><br />
+
 Library untuk backend dengan javascript
 ![roadmap4.png](/roadmapWPU/roadmap4.png)
