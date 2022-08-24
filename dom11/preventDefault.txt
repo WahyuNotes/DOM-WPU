@@ -33,3 +33,13 @@ mengambil node
 mengambil element
 
 Penggunaannya sama seperti pada line 8 s/d 17
+
+
+<!--event bubbling--->
+penjabaran:
+contoh event bubbling yaitu ketika tombol close dalam suatu card, dan tombol close itu mempengaruhi card atau bahkan hingga mempengatuhi container/pembungkus/body.
+
+Tidak hanya tombol close saja, yang lainnya jg bisa diatur
+
+<!--.stopPropagation()-->
+digunakan untuk menghentikan fungsi yang terhubung dengan parent ketika element/tombol ditekan. Atau menghentikan bubbling
