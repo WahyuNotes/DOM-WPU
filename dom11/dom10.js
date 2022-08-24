@@ -57,5 +57,13 @@ container.addEventListener("click", (e) => {
   if (e.target.className == "close") {
     e.target.parentElement.style.display = "none";
     e.preventDefault(); //buat jaga-jaga kalau yang di klik link
+    e.stopPropagation();
   }
+});
+
+const cards = container.querySelectorAll(".card");
+cards.forEach((card, index) => {
+  card.addEventListener("click", () => {
+    alert("ini card ke-" + (index + 1));
+  });
 });
