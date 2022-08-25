@@ -2,17 +2,15 @@
 
 Judul Playlist: Javascript dan DOM (Document Object Model)
 
-> <i>Link Playlist : https://www.youtube.com/watch?v=aT60R1cySLM&list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3</i>
+<button><a href='https://www.youtube.com/watch?v=aT60R1cySLM&list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3'>Link Playlist <b>Javascript dan DOM</b></a></button>
 
 <br />catatan link referensi:
 
-> <i> https://developer.mozilla.org/en-US/docs/Web/Events</i></li>
+<button><a href='https://developer.mozilla.org/en-US/docs/Web/Events'>events <b>Dev Mozilla</b></a></button>
 
-> <i> https://dillionmegida.com/p/inline-events-vs-add-event-listeners/</i>
+<button><a href='https://dillionmegida.com/p/inline-events-vs-add-event-listeners/'><b>inline event</b> vs <b>addEventListeners</b></a></button>
 
-<br />Link Deployment
-
-> <i>https://jsdom-wahyu.netlify.app/</i>
+<br />Link Deployment: <button><a href='https://jsdom-wahyu.netlify.app/'><b>Klik disini</b></a></button>
 
 <br /><br />Roadmap WPU secara garis besar
 ![Bigroadmap.png](/roadmapWPU/bigroadmap.png)<br /><br />
