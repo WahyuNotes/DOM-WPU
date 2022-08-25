@@ -6,6 +6,8 @@ Judul Playlist: Javascript dan DOM (Document Object Model)
 
 <br />catatan link referensi:
 
+> <i> https://developer.mozilla.org/en-US/docs/Web/Events</i></li>
+
 > <i> https://dillionmegida.com/p/inline-events-vs-add-event-listeners/</i>
 
 <br />Link Deployment
