@@ -6,7 +6,7 @@ const judul = document.querySelector("h1");
 var counter = 1;
 const nama = prompt("masukkan nama anda");
 alert("selamat datang " + nama);
-judul.innerHTML = `Welkom du de hell ${nama}, yu kan bit mi hahaha....`;
+judul.innerHTML = `Wellcome to the hell ${nama}, u can't beat me hahaha....`;
 tombol.forEach(function (el) {
   el.addEventListener("click", function (e) {
     if (counter >= 4) {
